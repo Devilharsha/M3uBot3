@@ -1,6 +1,6 @@
 sudo_users = [829259422,1984763765]
 
-iptv_link = "https://gist.githubusercontent.com/nikhil123nikhil/74fd13528fdc6d47d4855b50ea672ef1/raw/43efd4c68816035afbad39b1bb1895556fc67da9/iptv.json"
+iptv_link = "https://gist.githubusercontent.com/nikhil123nikhil/74fd13528fdc6d47d4855b50ea672ef1/raw/ed333daeab02b95e747f561bcd9c0355fa7ba712/iptv.json"
 
 GROUP_TAG = "Nikhil"
 
