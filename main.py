@@ -3,9 +3,9 @@ from utils import check_user, multi_rec, getChannels
 
 app = Client(
     "Bloo_Rec_Bot",
-    bot_token = "5501542300:AAHGuQQ3UjvVeJzOAe-wKh4v5nJVTGdtZ2I",
-    api_id = 17038143,
-    api_hash = "c1705f4cf711329ea025772dfd7057e0"
+    bot_token = "6295287643:AAEqPJ4hp3oOOShXOqsn0JFXe1sB8DfL1eI",
+    api_id = 7931165,
+    api_hash = "5a2e46d1e6deb1456c75aa743bc8e0e6"
 )
 
 
